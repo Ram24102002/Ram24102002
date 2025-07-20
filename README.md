@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramachandran Asokan</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a software engineer with a passion for developing innovative solutions. Here's a little about me:</h3>
+<h3 >Welcome to my GitHub profile! I'm a software engineer with a passion for developing innovative solutions. Here's a little about me:</h3>
 
 - 🌱 I’m currently learning **React, Spring, node.js**
 
