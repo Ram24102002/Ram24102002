@@ -1,5 +1,6 @@
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="max-width: 20%; display: inline-block;" data-target="animated-image.originalImage">
-
+<div style="width: 50%;>
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</div>
 <h1>Hi 👋, I'm Ramachandran Asokan</h1>
 <h3 >Welcome to my GitHub profile! I'm a software developer with a passion for developing innovative solutions. Here's a little about me:</h3>
 
