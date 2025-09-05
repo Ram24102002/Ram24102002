@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Spring, node.js**
 
-- 👨‍💻 All of my projects are available at [Portfolio]([https://ram24102002.github.io/Portfolio/](https://portfolio-react-azure-kappa.vercel.app/))
+- 👨‍💻 All of my projects are available at [Portfolio](https://ram24102002.github.io/Portfolio/](https://portfolio-react-azure-kappa.vercel.app/)
 
 - 📫 How to reach me **Ramachandran24102002@gmail.com**
 
