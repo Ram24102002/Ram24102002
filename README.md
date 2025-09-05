@@ -94,4 +94,3 @@
 <hr>
 <p dir="auto">⭐ <strong>“Data tells a story — I make it worth reading.”</strong></p>
 </article>
-  </div>
