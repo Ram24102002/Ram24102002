@@ -41,7 +41,6 @@
 <a href="https://www.leetcode.com/https://leetcode.com/u/ram24102002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ram24102002/" height="30" width="40" /></a>
 </p>
 
-![Your Name's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Ram24102002)
 
 
 
